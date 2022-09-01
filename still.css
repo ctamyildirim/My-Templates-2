@@ -943,7 +943,8 @@ section{
 .imgwindow{
     box-shadow: 2px 2px 20px #0a2a42;
     min-width: 30%;
-    min-height: auto;
+    min-height: 150px;
+    height: auto;
     border: 1px solid #DBE4EB;
     border-top-left-radius: 50%;
     border-top-right-radius: 50%;
