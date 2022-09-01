@@ -39,7 +39,7 @@ header{
     min-width: 100%;
     max-width: 100%;
     height: auto;
-    background-image: url(./Images/background2.jpg);  
+    background-image: url(./background2.jpg);  
     background-position: right;
     background-repeat: no-repeat;
     background-size: cover;
@@ -56,15 +56,15 @@ header{
     @-webkit-keyframes changing{
 
         0%  { 
-            background-image : url(./Images/background2.jpg);
+            background-image : url(./background2.jpg);
             
         }
         50%  {  
-            background-image : url(./Images/background1.jpg);
+            background-image : url(./background1.jpg);
             
         }
         100% {
-            background-image : url(./Images/background2.jpg);
+            background-image : url(./background2.jpg);
         }
     }
 
@@ -78,7 +78,7 @@ header{
 @media only screen and (max-width:1023px) {
     #header_inclusive_area{
         animation-play-state: paused;
-        background-image: url(./Images/background3.jpg);
+        background-image: url(./background3.jpg);
         background-position: left;
         background-repeat: no-repeat;
         background-size: cover;
@@ -117,7 +117,7 @@ header{
     width: 80%;
     height: 15vh;
     margin-top: 9vh;
-    background-image: url(./Images/kissclipart-wall-decal-beauty-parlour-hairdresser-sticker-ccc93f3e80137a42.png);
+    background-image: url(./kissclipart-wall-decal-beauty-parlour-hairdresser-sticker-ccc93f3e80137a42.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size:contain;
@@ -610,7 +610,7 @@ section{
 
 #section_area1_container_row1_column1{
 
-    background-image: url(./Images/haircut.jpg);
+    background-image: url(./haircut.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -619,7 +619,7 @@ section{
 }
 #section_area1_container_row1_column2{
 
-    background-image: url(./Images/ombre.jpg);
+    background-image: url(./ombre.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -628,7 +628,7 @@ section{
 }
 #section_area1_container_row1_column3{
 
-    background-image: url(./Images/nailart.jpg);
+    background-image: url(./nailart.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -638,7 +638,7 @@ section{
 
 #section_area1_container_row2_column1{
 
-    background-image: url(./Images/keratin.jpg);
+    background-image: url(./keratin.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -648,7 +648,7 @@ section{
 
 #section_area1_container_row2_column2{
 
-    background-image: url(./Images/hairtreatments.jpg);
+    background-image: url(./hairtreatments.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -658,7 +658,7 @@ section{
 
 #section_area1_container_row2_column3{
 
-    background-image: url(./Images/haircoloring.jpg);
+    background-image: url(./haircoloring.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -963,20 +963,20 @@ section{
     }
 }
 #img1{
-    background-image: url(./Images/customer1.jpg);
+    background-image: url(./customer1.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 #img2{
-    background-image: url(./Images/customer2.jpg);
+    background-image: url(./customer2.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 #img3{
 
-    background-image: url(./Images/customer3.jpg);
+    background-image: url(./customer3.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
