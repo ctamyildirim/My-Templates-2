@@ -963,20 +963,20 @@ section{
     }
 }
 #img1{
-    background-image: url(./customer1.jpg);
+    background-image: url("./customer1.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 #img2{
-    background-image: url(./customer2.jpg);
+    background-image: url("./customer2.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 #img3{
 
-    background-image: url(./customer3.jpg);
+    background-image: url("./customer3.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
